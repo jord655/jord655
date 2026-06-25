@@ -5,7 +5,7 @@ I design and build whatever i can imagine.
 
 If an idea pops into my head, chances are i'll build it.
 
-My main tech stacks are:  HTML, CSS, JS, React, React Native, PHP, Java, C, C++
+My main tech stacks are:  HTML, CSS, JS, Typescript, React, React Native, PHP, Java, C, C++
 
 I've got a bunch of pinned project, but my favorite is my Anime streaming site
 
