@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi there👋
+I'm Jordan, a software engineering student at Babcock University.
 
-<!--
-**jord655/jord655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build whatever i can imagine.
 
-Here are some ideas to get you started:
+If an idea pops into my head, chances are i'll build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stacks are:  HTML, CSS, JS, React, React Native, PHP, Java, C, C++
+
+I've got a bunch of pinned project, but my favorite is my Anime streaming site
+
+FUN FACTS:
+• I have a Dog
+• I don't like coffee or tea
+• Demon Slayer is my favorite anime
+• Hobbies: anime, gym, programming, music
+
+Contact Me
+daviddike930@gmail.com
+08132330007
+ 
+
+
+
+
